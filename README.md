@@ -1,2 +1,1 @@
-# Calculator
-My self made calculator project using reactjs
+My C++ Repository
